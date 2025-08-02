@@ -9,7 +9,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title> Sistem Pemenuhan Gizi Ibu Hamil</title>
+	<title> Sistem Informasi Rekam Medis Kehamilan</title>
 
 	<!-- Bootstrap core CSS-->
 	<link href="<?php echo base_url() ?>assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -31,7 +31,7 @@
         <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link navbar-brand" href="<?php echo base_url('home'); ?>">Gizi Ibu Hamil</a>
+                    <a class="nav-link navbar-brand" href="<?php echo base_url('home'); ?>">SI - KEHAMILAN</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="<?php echo base_url('home/artikel') ?>">Artikel</a>
@@ -88,7 +88,7 @@
 
 				<!-- <div class="jumbotron" style="background-color: #e3e3e3;">
 					<center>
-					<h1>Sistem Pemenuhan Gizi Ibu Hamil</h1>
+					<h1>Sistem Pemenuhan SI - KEHAMILAN</h1>
 					    <h3>Menggunakan Metode Harris Benedict</h3>
 					    <h4>Andri Arfianto</h4>
 					    <h4>3125111382</h4>
@@ -102,10 +102,10 @@
 						<div class="col-lg-8">
 							<p>
 							<center>
-								<h1>Sistem Pemenuhan Gizi Ibu Hamil</h1>
-								<h3>Menggunakan Metode Harris Benedict</h3>
-								<h4>Andri Arfianto</h4>
-								<h4>3125111382</h4>
+								<h1>SISTEM INFORMASI REKAM MEDIS KEHAMILAN</h1>
+								<h3>Berbasis Website</h3>
+								<h4>Rizky Maulana Rainda</h4>
+								<h4>187200031</h4>
 							</center>
 							</p>
 						</div>
@@ -120,9 +120,9 @@
 							<p>
 								<ul>
 									<li><strong><h4>Informasi website :</h4></strong></li>
-									Website ini digunakan sebagai implementasi dari tugas akhir yang berjudul "Sistem pemenuhan gizi ibu hamil menggunakan metode harris benedict."
-									Aplikasi ini digunakan untuk menghitung dan mengetahui jumlah kebutuhan gizi dari ibu hamil dari proses perhitungan : 
-									energi basal metabolisme ditambah nilai aktifitas fisik ditambah hasil olah makanan dan usia_kehamilan yang diambil dari parameter
+									Website ini digunakan sebagai implementasi dari tugas akhir yang berjudul "Sistem Informasi Rekam Medis Kehamilan Berbasis Website."
+									Aplikasi ini digunakan untuk konsultasi, menghitung dan mengetahui jumlah kebutuhan gizi dari ibu hamil dari proses perhitungan : 
+									energi basal metabolisme ditambah nilai aktifitas fisik ditambah hasil olah makanan dan usia kehamilan yang diambil dari parameter
 									tinggi badan ibu hamil, berat badan ibu hamil, usia ibu hamil.							
 								</ul>
 							</p>
@@ -131,8 +131,8 @@
 							<p>
 								<ul>
 									<li><strong><h4>Pengguna aplikasi :</h4></strong></li>
-									Aplikasi ini digunakan oleh ibu hamil sebagai sarana untuk mengetahui kondisi kesehatan dan gizi ibu hamil dari pekan per pekan dengan pemberian
-									saran makan dari hasil konsultasi perhitungan nilai gizi ibu hamil
+									Aplikasi ini digunakan oleh ibu hamil sebagai sarana untuk Konsultasi dan mengetahui kondisi kesehatan dan SI - KEHAMILAN dari pekan per pekan dengan pemberian
+									saran makan dari hasil konsultasi perhitungan nilai SI - KEHAMILAN
 								</ul>
 							</p>
 						</div>
@@ -141,7 +141,7 @@
 								<ul>									
 									<li><strong><h4>Cara penggunaan :</h4></strong></li>
 									Pengguna akan memasukkan data tinggi badan, berat badan, usia ibu hamil, usia kandungan dan aktifitas fisik.
-									Kemudian, sistem akan mengolah data tersebut dengan metode harris benedict untuk menghitung jumlah kebutuhan gizi ibu hamil.
+									Kemudian, sistem akan mengolah data tersebut untuk menghitung jumlah kebutuhan SI - KEHAMILAN.
 									Dari kebutuhan energi gizi tersebut akan dijadikan saran menu makan yang sesuai dengan nilai hasil hitung yang didapat.						
 								</ul>
 							</p>

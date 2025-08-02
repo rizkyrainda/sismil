@@ -70,7 +70,7 @@
                             </div>
                             
                             <div class="text-right">
-                                <a href="http://localhost/ci-ibuhamil/admin/chat">
+                                <a href="http://localhost/kehamilandesy/admin/chat">
                                     <button type="button" class="btn btn-primary pull-right">
                                         <i class="fas fa-arrow-left"></i> Kembali
                                     </button>

@@ -91,7 +91,7 @@
 							<div class="row">
 								<div class="col-md-10"></div>
 								<div class="text-right">
-									<a href="http://localhost/ci-ibuhamil/admin/artikel">
+									<a href="http://localhost/kehamilandesy/admin/artikel">
 										<button type="button" class="btn btn-primary pull-right">
 										<i class="fas fa-arrow-left"></i> Kembali</button>
 									</a>                                               

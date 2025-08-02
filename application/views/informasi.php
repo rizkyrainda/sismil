@@ -13,7 +13,7 @@
         <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link navbar-brand" href="<?php echo base_url('home'); ?>">Gizi Ibu Hamil</a>
+                    <a class="nav-link navbar-brand" href="<?php echo base_url('home'); ?>">SI - KEHAMILAN</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="<?php echo base_url('home/artikel') ?>">Artikel</a>
@@ -86,7 +86,7 @@
 
 												<div class='card-body'>
 													<h4>Artikel : </h4>
-													<p>berisi tentang informasi dan pengetahuan mengenai ibu hamil seputar kesehatan ibu hamil, kehamilan ibu hamil dan kebutuhan gizi ibu hamil</p>
+													<p>berisi tentang informasi dan pengetahuan mengenai ibu hamil seputar kesehatan ibu hamil, kehamilan ibu hamil dan kebutuhan SI - KEHAMILAN</p>
 													<!-- <h4>Kontak : </h4>
 													<p>Jika anda ingin menghubungi informasi penulis silahkan hubungi kontak yang tertera atau apabila belum jelas silahkan kirim pertanyaan pada kolom yang telah tertera</p> -->
 													<h4>Login : </h4>
@@ -117,11 +117,11 @@
 													<br> formulir pertanyaan dibawah ini <br> <br>
 
 													Tugas Akhir - Teknik Informatika <br>
-													Jl. Ringroad utara, Jombor <br>
-													Sleman, Yogyakarta <br>						
+													UNIVERSITAS PUTRA INDONESIA <br>
+													UNPI CIANJUR 2022 <br>						
 
-													Phone : +6289640291150 <br>										
-													Email : aarfianto11@gmail.com <br>
+													Phone : (+62)81312042431 <br>										
+													Email : rizkyrainda@gmail.com <br>
 												</div>
 
 												<div class="card-footer">

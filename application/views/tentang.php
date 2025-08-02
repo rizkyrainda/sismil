@@ -13,7 +13,7 @@
         <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link navbar-brand" href="<?php echo base_url('home'); ?>">Gizi Ibu Hamil</a>
+                    <a class="nav-link navbar-brand" href="<?php echo base_url('home'); ?>">SI - KEHAMILAN</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="<?php echo base_url('home/artikel') ?>">Artikel</a>
@@ -85,12 +85,12 @@
 										<div class='card-body'>
 											<div class="row">
 												<div class="col-sm-3">
-													<img src="<?php echo base_url('upload/admin/profile data diri.png') ?>" alt="Profile Data Diri">
+													<img src="<?php echo base_url('upload/admin/rizky.jpg') ?>" alt="Profile Data Diri" width="162" height="240">
 												</div>
 												<div class="col-sm-9">
-													<h5>Aplikasi ini merupakan Proyek Tugas Akhir yang digunakan sebagai salah satu syarat mencapai derajat Sarjana S-1 Program Studi Teknik Informatik Universitas Teknologi Yogyakarta (UTY).</h5>
-													<h5>Penulis bernama Andri Arfianto dengan Nim 3125111382 mahasiswa prodi Teknik Informatika tahun 2012 yang mengambil judul Sistem Pemenuhan Gizi Ibu Hamil menggunakan Metode Harris Benedict.</h5>
-													<h5>Aplikasi ini berguna untuk mengetahui kebutuhan gizi ibu hamil menggunakan metode Harris Benedict dengan memasukkan data tinggi badan ibu hamil, berat badan ibu hamil, usia ibu hamil, usia kandungan dan kondisi ibu hamil.</h5>
+													<h5>Aplikasi ini merupakan Proyek Tugas Akhir yang digunakan sebagai salah satu syarat Kelulusan Sarjana S-1 Program Studi Teknik Informatik Universitas Putra Indonesia (UNPI Cianjur).</h5>
+													<h5>Penulis bernama Rizky Maulana Rainda Mahasiswa prodi Teknik Informatika tahun 2022 yang mengambil judul Sistem Informasi Rekam Medis Kehamilan Berbasis Website.</h5>
+													<h5>Aplikasi ini berguna untuk Konsultasi dan mengetahui kebutuhan SI - KEHAMILAN dengan memasukkan data tinggi badan ibu hamil, berat badan ibu hamil, usia ibu hamil, usia kandungan dan kondisi ibu hamil.</h5>
 												</div>
 											</div>
 										</div>

@@ -150,7 +150,7 @@
 										<div class="row">
 											<div class="col-md-8"></div>
 											<div class="text-right">
-												<a href="http://localhost/ci-ibuhamil/admin/user">
+												<a href="http://localhost/kehamilandesy/admin/user">
 													<button type="button" class="btn btn-primary pull-right">
 													<i class="fas fa-arrow-left"></i> Kembali</button>
 												</a>                                               

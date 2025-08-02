@@ -30,7 +30,7 @@
 				<!-- DataTables -->
 				<div class="card mb-3">
 					<div class="card-header">
-						<a href="http://localhost/ci-ibuhamil/admin/menu">							
+						<a href="http://localhost/kehamilandesy/admin/menu">							
 							<i class="fas fa-arrow-left"></i> Kembali</button>
 						</a>
 					</div>

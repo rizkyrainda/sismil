@@ -299,7 +299,7 @@
 		<footer class="page-footer" style="background-color: #E3E3E3; ">
 			<div class="footer-copyright text-center py-3">
 				<span>Copyright ©
-					Ibu Hamil 2019</span>
+					Desy Permatasari Susanti 2022</span>
 			</div>
 		</footer>
 	</div>
